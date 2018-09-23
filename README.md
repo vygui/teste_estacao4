@@ -12,4 +12,6 @@ JQuery
 
 Também foram utilizadas as ferramentas Bootstrap para auxiliar a customização do front-end e o plugin jQuery-Mask para criar uma máscara de formação nos campos onde o usuário digita o preço do produto. 
 
+O modelo físico do banco de dados se encontra dentro do diretório 'sql'.
+
 O programa esta hospedado em: http://dg.servicos.ws/teste_estacao4
