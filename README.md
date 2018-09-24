@@ -9,8 +9,9 @@ HTML
 CSS
 Javascript
 JQuery
+PHP
 
-Também foram utilizadas as ferramentas Bootstrap para auxiliar a customização do front-end e o plugin jQuery-Mask para criar uma máscara de formação nos campos onde o usuário digita o preço do produto. 
+Também foi utilizada a ferramentas Bootstrap para auxiliar na customização do front-end e o plugin jQuery-Mask para criar uma máscara de formação nos campos onde o usuário digita o preço do produto. 
 
 O modelo físico do banco de dados se encontra dentro do diretório 'sql'.
 
